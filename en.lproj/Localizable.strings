@@ -1,0 +1,102 @@
+/* 
+  Localizable.strings
+  GameTrack
+
+  Created by Joe Kimberlin-Wyer.
+  Copyright © 2020 GameTrack. All rights reserved.
+*/
+
+“BACKLOG_TITLE” = “Backlog”;
+“ARCHIVE_TITLE” = “Archive”;
+“WISH_LIST_TITLE” = “Wish List”;
+“RANKED_TITLE” = “Ranked”;
+“LISTS_TITLE” = “Lists”;
+“DISCOVER_TITLE” = “Discover”;
+“FEATURED_TITLE” = “Featured”;
+“POPULAR_TITLE” = “Popular”;
+“UPCOMING_TITLE” = “Upcoming”;
+“RECENT_TITLE” = “Recent”;
+“HYPED_TITLE” = “Hyped”;
+“JUST_ADDED_TITLE” = “Just Added”;
+“PLATFORMS_TITLE” = “Platforms”;
+“FRANCHISES_TITLE” = “Franchises”;
+“ACTIVITY_TITLE” = “Activity”;
+“POSTS_TITLE” = “Posts”;
+“STATISTICS_TITLE” = “Statistics”;
+“ACCOUNTS_TITLE” = “Accounts”;
+
+“NOW_PLAYING_STATUS” = “Now Playing”;
+“PLAY_NEXT_STATUS” = “Play Next”;
+“COLLECTION_STATUS” = “Collection”;
+“FINISHED_STATUS” = “Finished”;
+“COMPLETED_STATUS” = “Completed”;
+“ABANDONED_STATUS” = “Abandoned”;
+
+“OUT_NOW_HEADING” = “Out Now”;
+
+“SEE_ALL_BUTTON_TITLE” = “See All”;
+“CLEAR_BUTTON_TITLE” = “Clear”;
+“ADD_GAME_BUTTON_TITLE” = “Add Game”;
+
+“PLATFORM_INFO_HEADING” = “Platforms”;
+“SUMMARY_INFO_HEADING” = “Summary”;
+“RELEASE_DATE_INFO_HEADING” = “Release Date”;
+“BACKLOG_DATE_INFO_HEADING” = “Backlog Date”;
+“ARCHIVE_DATE_INFO_HEADING” = “Archive Date”;
+“GENRES_INFO_HEADING” = “Genres”;
+“SCREENSHOTS_INFO_HEADING” = “Screenshots”
+“VIDEOS_INFO_HEADING” = “Videos”
+“CRITIC_RATING_INFO_HEADING” = “Critic Rating”;
+
+“SEARCH_GAMES_PLACEHOLDER” = “Search Games”;
+“SEARCH_USERS_PLACEHOLDER” = “Search Users”;
+“RECENT_SEARCHES_HEADING” = “Recent Searches”;
+
+“POST_TYPE_ADDED” = “Added”;
+“POST_TYPE_FINISHED” = “Finished”;
+“POST_TYPE_COMPLETED” = “Completed”;
+“POST_TYPE_ABANDONED” = “Abandoned”;
+“POST_TYPE_WANTED” = “Wanted”;
+“POST_TYPE_RANKED” = “Ranked”;
+
+“FOLLOWING_LABEL” = “Following”;
+“FOLLOWERS_LABEL” = “Followers”;
+“FOLLOW_BUTTON_TITLE” = “Follow”;
+“UNFOLLOW_BUTTON_TITLE” = “Unfollow”;
+
+“NEW_LIST_TITLE” = “Create New List”;
+“LIST_TITLE_HEADING” = “List Title”;
+“LIST_TYPE_HEADING” = “List Type”;
+“ADD_LIST_BUTTON_TITLE” = “Add”;
+
+“BACKLOG_LIST_SELECTION_SUBTITLE” = “Owned and currently playing games”;
+“ARCHIVE_LIST_SELECTION_SUBTITLE” = “Finished and abandoned games”;
+“WISH_LIST_SELECTION_SUBTITLE” = “Games you’d like to get”;
+“RANKED_LIST_SELECTION_SUBTITLE” = “Order your games in a ranked list”;
+
+“ADD_GAME_TITLE” = “Add Game to List”;
+“MOVE_GAME_TITLE” = “Move Game to List”;
+“IMPORT_GAME_TITLE” = “Import Game to List”;
+
+“PLATFORM_REGION_HEADING” = “Platform & Region”;
+“STATUS_HEADING” = “Status”;
+“RATING_HEADING” = “Rating”;
+
+“TOP_GENRES_HEADING” = “Top Genres”;
+“TOP_GENRES_SUBTITLE” = “Organise your games by genre”;
+“TOP_PLATFORMS_HEADING” = “Top Platforms”;
+“TOP_PLATFORMS_SUBTITLE” = “Show your games by platform”;
+“TOP_RATED_HEADING” = “Top Rated”
+“TOP_RATED_SUBTITLE” = “See how your games are rated”;
+“ARCHIVED_GAMES_HEADING” = “Archived Games by Month”;
+“ARCHIVED_GAMES_SUBTITLE” = “Chart your gaming progress over time”;
+
+“GAMES_HEADING” = “Games”;
+“LEVEL_HEADING” = “Level”;
+“PROGRESS_HEADING” = “Progress”;
+
+“OPTIONS_TITLE” = “Options”;
+“BATCH_IMPORT_HEADING” = “Batch Import Games”;
+“SIGN_OUT_HEADING” = “Sign Out”;
+“SHARE_POST_HEADING” = “Share Post”;
+“DELETE_POST_HEADING” = “Delete Post”;
