@@ -6,97 +6,291 @@
   Copyright © 2020 GameTrack. All rights reserved.
 */
 
-“BACKLOG_TITLE” = “Backlog”;
-“ARCHIVE_TITLE” = “Archive”;
-“WISH_LIST_TITLE” = “Wish List”;
-“RANKED_TITLE” = “Ranked”;
-“LISTS_TITLE” = “Lists”;
-“DISCOVER_TITLE” = “Discover”;
-“FEATURED_TITLE” = “Featured”;
-“POPULAR_TITLE” = “Popular”;
-“UPCOMING_TITLE” = “Upcoming”;
-“RECENT_TITLE” = “Recent”;
-“HYPED_TITLE” = “Hyped”;
-“JUST_ADDED_TITLE” = “Just Added”;
-“PLATFORMS_TITLE” = “Platforms”;
-“FRANCHISES_TITLE” = “Franchises”;
-“ACTIVITY_TITLE” = “Activity”;
-“POSTS_TITLE” = “Posts”;
-“STATISTICS_TITLE” = “Statistics”;
-“ACCOUNTS_TITLE” = “Accounts”;
+"ONBOARDING_WELCOME_TO" = "Welcome to";
+"CONTINUE_BUTTON_TITLE" = "Continue";
+"NEXT_BUTTON_TITLE" = "Next";
+"CONTINUE_WITHOUT_ACCOUNT_TITLE" = "Continue without Account";
+"LINK_YOUR_ACCOUNTS_HEADING" = "Link your gaming accounts";
+"ACCOUNT_DETAILS_TITLE" = "Accounts Details";
+"USERNAME_LABEL" = "Username";
+"VALID_USERAME_MESSAGE" = "Please enter a valid username (no special characters or spaces).";
+"USERNAME_IN_USE" = "Username already in use. Please try another.";
+"PERMISSION_ERROR_TITLE" = "Permission Error";
+"PERMISSION_ERROR_MESSAGE" = "Photo library access has been denied. Please go to settings and enable photo library access to select a display picture.";
 
-“NOW_PLAYING_STATUS” = “Now Playing”;
-“PLAY_NEXT_STATUS” = “Play Next”;
-“COLLECTION_STATUS” = “Collection”;
-“FINISHED_STATUS” = “Finished”;
-“COMPLETED_STATUS” = “Completed”;
-“ABANDONED_STATUS” = “Abandoned”;
+"WELCOME_TAG_LINE" = "Making managing your games collection easy and enjoyable.";
 
-“OUT_NOW_HEADING” = “Out Now”;
+"ONBOARDING_OPTION_1" = "Add any game you'd like";
+"ONBOARDING_OPTION_1_MESSAGE" = "Using the IGDB database, search for any game on any platform to add to your backlog, archive & wish list.";
 
-“SEE_ALL_BUTTON_TITLE” = “See All”;
-“CLEAR_BUTTON_TITLE” = “Clear”;
-“ADD_GAME_BUTTON_TITLE” = “Add Game”;
+"ONBOARDING_OPTION_2" = "Rate games and track progress";
+"ONBOARDING_OPTION_2_MESSAGE" = "Keep track of your progress through your backlog and rate your games when finished. Hold down on a game in your list to quickly change these.";
 
-“PLATFORM_INFO_HEADING” = “Platforms”;
-“SUMMARY_INFO_HEADING” = “Summary”;
-“RELEASE_DATE_INFO_HEADING” = “Release Date”;
-“BACKLOG_DATE_INFO_HEADING” = “Backlog Date”;
-“ARCHIVE_DATE_INFO_HEADING” = “Archive Date”;
-“GENRES_INFO_HEADING” = “Genres”;
-“SCREENSHOTS_INFO_HEADING” = “Screenshots”
-“VIDEOS_INFO_HEADING” = “Videos”
-“CRITIC_RATING_INFO_HEADING” = “Critic Rating”;
+"ONBOARDING_OPTION_3" = "Charts and statistics";
+"ONBOARDING_OPTION_3_MESSAGE" = "See charts of your ratings, favourite platforms, genres and how many games you finish per month.";
 
-“SEARCH_GAMES_PLACEHOLDER” = “Search Games”;
-“SEARCH_USERS_PLACEHOLDER” = “Search Users”;
-“RECENT_SEARCHES_HEADING” = “Recent Searches”;
+"UPDATE_MESSAGE_LABEL" = "Thank you for updating.";
 
-“POST_TYPE_ADDED” = “Added”;
-“POST_TYPE_FINISHED” = “Finished”;
-“POST_TYPE_COMPLETED” = “Completed”;
-“POST_TYPE_ABANDONED” = “Abandoned”;
-“POST_TYPE_WANTED” = “Wanted”;
-“POST_TYPE_RANKED” = “Ranked”;
+"ONBOARDING_OPTION_4" = "Complete redesign";
+"ONBOARDING_OPTION_4_MESSAGE" = "The app has been rebuilt from the ground up with new features, new design, new icons and more!";
+    
+"ONBOARDING_OPTION_5" = "GameTrack account";
+"ONBOARDING_OPTION_5_MESSAGE" = "Create a GameTrack account to share updates and lists with friends.";
+    
+"ONBOARDING_OPTION_6" = "Quick actions";
+"ONBOARDING_OPTION_6_MESSAGE" = "Hold down on a game in your list to quickly change progress, rating, move to another list and share.";
 
-“FOLLOWING_LABEL” = “Following”;
-“FOLLOWERS_LABEL” = “Followers”;
-“FOLLOW_BUTTON_TITLE” = “Follow”;
-“UNFOLLOW_BUTTON_TITLE” = “Unfollow”;
+"ONBOARDING_OPTION_7" = "Import your games to your lists";
+"ONBOARDING_OPTION_7" = "Link your accounts to import your games along with trophies and achievements.";
 
-“NEW_LIST_TITLE” = “Create New List”;
-“LIST_TITLE_HEADING” = “List Title”;
-“LIST_TYPE_HEADING” = “List Type”;
-“ADD_LIST_BUTTON_TITLE” = “Add”;
+"ONBOARDING_OPTION_8" = "Keeping updated";
+"ONBOARDING_OPTION_8_MESSAGE" = "Games you have imported will keep their trophy and achievement information in sync with your activities.";
 
-“BACKLOG_LIST_SELECTION_SUBTITLE” = “Owned and currently playing games”;
-“ARCHIVE_LIST_SELECTION_SUBTITLE” = “Finished and abandoned games”;
-“WISH_LIST_SELECTION_SUBTITLE” = “Games you’d like to get”;
-“RANKED_LIST_SELECTION_SUBTITLE” = “Order your games in a ranked list”;
+"LINK_STEAM_ACCOUNT_TITLE" = "Link Steam Account";
+"LINK_STEAM_ACCOUNT_MESSAGE" = "Before linking your Steam account, please make sure the 'Game Details' privacy settings on your steam profile are set to 'Public'.";
 
-“ADD_GAME_TITLE” = “Add Game to List”;
-“MOVE_GAME_TITLE” = “Move Game to List”;
-“IMPORT_GAME_TITLE” = “Import Game to List”;
+"ONBOARDING_OPTION_9" = "Post updates"
+"ONBOARDING_OPTION_9_MESSAGE" = "Automatically post to your feed when you add, finish, complete, abandon or want a game."
 
-“PLATFORM_REGION_HEADING” = “Platform & Region”;
-“STATUS_HEADING” = “Status”;
-“RATING_HEADING” = “Rating”;
+"ONBOARDING_OPTION_10" = "Keep up with your friends gaming activities"
+"ONBOARDING_OPTION_10_MESSAGE" = "Follow your friends to see their gaming updates and ratings."
 
-“TOP_GENRES_HEADING” = “Top Genres”;
-“TOP_GENRES_SUBTITLE” = “Organise your games by genre”;
-“TOP_PLATFORMS_HEADING” = “Top Platforms”;
-“TOP_PLATFORMS_SUBTITLE” = “Show your games by platform”;
-“TOP_RATED_HEADING” = “Top Rated”
-“TOP_RATED_SUBTITLE” = “See how your games are rated”;
-“ARCHIVED_GAMES_HEADING” = “Archived Games by Month”;
-“ARCHIVED_GAMES_SUBTITLE” = “Chart your gaming progress over time”;
+"ONBOARDING_OPTION_11" = "Sharing is caring"
+"ONBOARDING_OPTION_11_MESSAGE" = "Share your lists with your friends."
 
-“GAMES_HEADING” = “Games”;
-“LEVEL_HEADING” = “Level”;
-“PROGRESS_HEADING” = “Progress”;
+"SIGN_IN_WITH_PSN_TITLE" = "Sign In with PSN";
+"SIGN_IN_WITH_STEAM" = "Sign In with Steam";
 
-“OPTIONS_TITLE” = “Options”;
-“BATCH_IMPORT_HEADING” = “Batch Import Games”;
-“SIGN_OUT_HEADING” = “Sign Out”;
-“SHARE_POST_HEADING” = “Share Post”;
-“DELETE_POST_HEADING” = “Delete Post”;
+"IMPORTING_LABEL" = "Importing Steam games.";
+"PLEASE_WAIT_LABEL" = "Please wait...";
+"CONTACT_SUPPORT_LABEL" = "Please contact support.";
+"IMPORT_FAILED_LABEL" = "Import Failed";
+
+"LIBRARY_LABEL" = "Library";
+"SEARCH_LABEL" = "Search";
+
+"BACKLOG_TITLE" = "Backlog";
+"ARCHIVE_TITLE" = "Archive";
+"WISH_LIST_TITLE" = "Wish List";
+"RANKED_TITLE" = "Ranked";
+"LISTS_TITLE" = "Lists";
+"DISCOVER_TITLE" = "Discover";
+"FEATURED_TITLE" = "Featured";
+"POPULAR_TITLE" = "Popular";
+"UPCOMING_TITLE" = "Upcoming";
+"RECENT_TITLE" = "Recent";
+"HYPED_TITLE" = "Hyped";
+"JUST_ADDED_TITLE" = "Just Added";
+"PLATFORMS_TITLE" = "Platforms";
+"FRANCHISES_TITLE" = "Franchises";
+"ACTIVITY_TITLE" = "Activity";
+"POSTS_TITLE" = "Posts";
+"STATISTICS_TITLE" = "Statistics";
+"ACCOUNTS_TITLE" = "Accounts";
+
+"NOW_PLAYING_STATUS" = "Now Playing";
+"PLAY_NEXT_STATUS" = "Play Next";
+"COLLECTION_STATUS" = "Collection";
+"FINISHED_STATUS" = "Finished";
+"COMPLETED_STATUS" = "Completed";
+"ABANDONED_STATUS" = "Abandoned";
+
+"OUT_NOW_HEADING" = "Out Now";
+"NO_BACKLOG_DATE_HEADING" = "No Backlog Date";
+"NO_ARCHIVE_DATE_HEADING" = "No Archive Date";
+"EMPTY_LIST_LABEL" = "Your list is empty! Tap the + button on the tab bar to discover some games.";
+"EMPTY_FEED_LABEL" = "No posts found. Try following more people using the search button.";
+"PLEASE_SIGN_IN_LABEL" = "Please sign in to see your activity feed.";
+
+"SEE_ALL_BUTTON_TITLE" = "See All";
+"CLEAR_BUTTON_TITLE" = "Clear";
+"ADD_GAME_BUTTON_TITLE" = "Add Game";
+"SAVE_BUTTON_TITLE" = "Save";
+"SORT_OPTIONS_TITLE" = "Sort Options";
+
+"COMPLETION_BUTTON_TITLE" = "Completion";
+"RATE_BUTTON_TITLE" = "Rate";
+"MOVE_BUTTON_TITLE" = "Move";
+"SHARE_BUTTON_TITLE" = "Share";
+"DELETE_BUTTON_TITLE" = "Delete";
+"DELETE_GAME_ALERT_TITLE" = "Delete Game";
+"DELETE_GAME_ALERT_MESSAGE" = "Are you sure you want to delete this game from your list?";
+
+"PLATFORM_INFO_HEADING" = "Platforms";
+"SUMMARY_INFO_HEADING" = "Summary";
+"RELEASE_DATE_INFO_HEADING" = "Release Date";
+"BACKLOG_DATE_INFO_HEADING" = "Backlog Date";
+"ARCHIVE_DATE_INFO_HEADING" = "Archive Date";
+"GENRES_INFO_HEADING" = "Genres";
+"SCREENSHOTS_INFO_HEADING" = "Screenshots"
+"VIDEOS_INFO_HEADING" = "Videos"
+"CRITIC_RATING_INFO_HEADING" = "Critic Rating";
+"ACHIEVEMENTS_HEADING" = "Achievements";
+"TROPHIES_HEADING" = "Trophies";
+
+"SEARCH_GAMES_PLACEHOLDER" = "Search Games";
+"SEARCH_USERS_PLACEHOLDER" = "Search Users";
+"EMPTY_USERS_LABEL" = "No users found. Please check your capitalisation.";
+"RECENT_SEARCHES_HEADING" = "Recent Searches";
+
+"POST_TYPE_ADDED" = "Added";
+"POST_TYPE_FINISHED" = "Finished";
+"POST_TYPE_COMPLETED" = "Completed";
+"POST_TYPE_ABANDONED" = "Abandoned";
+"POST_TYPE_WANTED" = "Wanted";
+"POST_TYPE_RANKED" = "Ranked";
+
+"FOLLOWING_LABEL" = "Following";
+"FOLLOWERS_LABEL" = "Followers";
+"FOLLOW_BUTTON_TITLE" = "Follow";
+"UNFOLLOW_BUTTON_TITLE" = "Unfollow";
+
+"NEW_LIST_TITLE" = "Create New List";
+"LIST_TITLE_HEADING" = "List Title";
+"LIST_TYPE_HEADING" = "List Type";
+"ADD_LIST_BUTTON_TITLE" = "Add";
+
+"SCREENSHOT_ERROR_TITLE" = "Screenshot Error";
+"SCREENSHOT_ERROR_MESSAGE" = "No screenshots found for selected game.";
+"ARTWORK_ERROR_TITLE" = "Artwork Error";
+"ARTWORK_ERROR_MESSAGE" = "No artwork found for selected game.";
+"DEFAULT_POSTER_ERROR_MESSAGE" = "No default poster found for selected game.";
+"DEFAULT_POSTER_ERROR_TITLE" = "Poster Error";
+
+"BACKLOG_LIST_SELECTION_SUBTITLE" = "Owned and currently playing games";
+"ARCHIVE_LIST_SELECTION_SUBTITLE" = "Finished and abandoned games";
+"WISH_LIST_SELECTION_SUBTITLE" = "Games you’d like to get";
+"RANKED_LIST_SELECTION_SUBTITLE" = "Order your games in a ranked list";
+
+"ADD_GAME_TITLE" = "Add Game to List";
+"MOVE_GAME_TITLE" = "Move Game to List";
+"IMPORT_GAME_TITLE" = "Import Game to List";
+"SELECT_GAMES_TITLE" = "Select Games";
+"IMPORT_COMPLETE_ALERT" = "Import complete.";
+"SUCCESS_ALERT" = "Success";
+
+"PLATFORM_REGION_HEADING" = "Platform & Region";
+"PLATFORM_ERROR_MESSAGE" = "Please select a platform.";
+"STATUS_HEADING" = "Status";
+"RATING_HEADING" = "Rating";
+
+"SHARE_GAME_LABEL" = "Share Game";
+"RATE_GAME_LABEL" = "Rate Game";
+"CHANGE_PLATFORM" = "Change Platform";
+"CHANGE_POSTER_LABEL" = "Change Poster";
+"CHANGE_BACKGROUND_LABEL" = "Change Background";
+"CHANGE_BACKLOG_DATE_LABEL" = "Change Backlog Date";
+"CHANGE_ARCHIVE_DATE_LABEL" = "Change Archive Date";
+"REFRESH_RELEASE_DATE_LABEL" = "Refresh Release Date";
+"ADD_NOTES_LABEL" = "Add Notes";
+"PHOTO_LIBRARY_LABEL" = "Photo Library";
+"ARTWORK_LABEL" = "Artwork";
+
+"TOP_GENRES_HEADING" = "Top Genres";
+"TOP_GENRES_SUBTITLE" = "Organise your games by genre";
+"GAME_GENRES_TITLE" = "Game Genres";
+"TOP_PLATFORMS_HEADING" = "Top Platforms";
+"TOP_PLATFORMS_SUBTITLE" = "Show your games by platform";
+"GAME_PLATFORMS_TITLE" = "Game Platforms";
+"TOP_RATED_HEADING" = "Top Rated"
+"TOP_RATED_SUBTITLE" = "See how your games are rated";
+"GAME_RATINGS_TITLE" = "Game Ratings";
+"ARCHIVED_GAMES_HEADING" = "Archived Games by Month";
+"ARCHIVED_GAMES_SUBTITLE" = "Chart your gaming progress over time";
+"RELEASE_YEAR_LABEL" = "Release Year";
+"ARCHIVE_YEAR_LABEL" = "Archive Year";
+"FILTER_OPTIONS_TITLE" = "Filter Options";
+
+"GAMES_HEADING" = "Games";
+"LEVEL_HEADING" = "Level";
+"PROGRESS_HEADING" = "Progress";
+"GAMERTAG_TITLE" = "Enter Gamertag";
+
+"OPTIONS_TITLE" = "Options";
+"BATCH_IMPORT_HEADING" = "Batch Import Games";
+"SIGN_OUT_HEADING" = "Sign Out";
+"SHARE_POST_HEADING" = "Share Post";
+"DELETE_POST_HEADING" = "Delete Post";
+
+"PLUS_DISCOUNT_TAG" = "% Off";
+"PLUS_UPGRADE_BUTTON_TITLE" = "Upgrade to GameTrack+";
+"UPGRADE_ANNUAL_BUTTON_TITLE" = "Upgrade to Annual";
+"MANAGE_SUBSCRIPTION_TITLE" = "Manage Subscription";
+"INACTIVE_STATUS_TITLE" = "Inactive";
+"ANNUAL_STATUS_TITLE" = "Annual";
+"MONTHLY_STATUS_TITLE" = "Monthly";
+"CUSTOMISE_STATUS_TITLE" = "Customise";
+"RESTORE_PUCHASES_BUTTON_TITLE" = "Restore Purchases";
+"PRIVACY_POLICY_BUTTON_TITLE" = "Privacy Policy";
+"TERMS_OF_USE_BUTTON_TITLE" = "Terms of Service";
+"PLUS_DISCOUNT_HEADING" = "20% Customise Pack Discount Applied 👍";
+"PRICING_PER_MONTH_LABEL" = "per month";
+"PRICING_PER_YEAR_LABEL" = "per year";
+"SUCCESSFUL_PURCHASE_LABEL" = "Purchase Successful!";
+"PURCHASES_NOT_ALLOWED_ERROR" = "Purchases not allowed on this device.";
+"PURCHASES_INVALID_ERROR" = "Purchase invalid, check payment source.";
+"NETWORK_ERROR" = "Network error, please check your connection.";
+"UNKNOWN_ERROR" = "Unknown server error, please try again.";
+"PURCHASE_ERROR" = "Purchase Error";
+
+"NOT_SIGNED_IN_LABEL" = "Not Signed In";
+"SIGN_OUT_BUTTON_TITLE" = "Sign Out";
+"SIGN_IN_BUTTON_TITLE" = "Sign In";
+
+"THEME_LABEL" = "Theme";
+"LAYOUTS_LABEL" = "Layouts";
+"TINT_COLOUR_LABEL" = "Tint Colour";
+"APP_ICON_LABEL" = "App Icon";
+"ACCOUNT_LABEL" = "Account";
+"CHANGE_ACCOUNT_DETAILS" = "Change Account Details";
+"NOTIFICATIONS_LABEL" = "Notifications";
+"BACKUP_LABEL" = "Backup Library";
+"RATE_APP_LABEL" = "Rate App";
+"SUPPORT_LABEL" = "Support";
+"FEATURE_LABEL" = "Feature Roadmap";
+
+"PLUS_TITLE" = "Plus";
+"COLOURS_TITLE" = "Colours";
+"LEGACY_COLOURS_TITLE" = "Legacy Colours";
+"LEGACY_SPECIAL_TITLE" = "Legacy Special";
+"SPECIAL_TITLE" = "Special";
+
+"POSTER_LABEL" = "Poster";
+"COMPACT_POSTER_LABEL" = "Compact Poster";
+"BANNER_LABEL" = "Banner"
+
+"ABOUT_BUTTON_TITLE" = "About";
+"CREDITS_TITLE" = "Designed and developed by Joe Kimberlin-Wyer in London, UK.";
+"IGDB_TITLE" = "Game data provided by IGDB.com";
+"VERSION_TITLE" = "Version";
+
+"EMPTY_ARCHIVE_STATS_ERROR" = "You need to add some games to your lists before using this feature.";
+
+"OTHER_PLATFORMS_LABEL" = "Other";
+
+"ENABLE_NOTIFICATIONS_LABEL" = "Enable Notifications";
+"NOTIFICATIONS_DISABLED_ERROR" = "Please enable notificaitons in iOS settings.";
+
+"DARK_THEME_LABEL" = "Dark";
+"LIGHT_THEME_LABEL" = "Light";
+"AUTOMATIC_THEME_LABEL" = "Automatic";
+
+"SIMULATOR_LABEL" = "Simulator";
+"TACTICAL_LABEL" = "Tactical";
+"QUIZ_LABEL" = "Quiz/Trivia";
+"FIGHTING_LABEL" = "Fighting";
+"STRATEGY_LABEL" = "Strategy";
+"ADVENTURE_LABEL" = "Adventure";
+"RPG_LABEL" = "RPG";
+"SHOOTER_LABEL" = "Shooter";
+"MUSIC_LABEL" = "Music";
+"INDIE_LABEL" = "Indie";
+"PINBALL_LABEL" = "Pinball";
+"PUZZLE_LABEL" = "Puzzle";
+"RTS_LABEL" = "RTS";
+"BEAT_LABEL" = "Beat 'em up";
+"PLATFORMER_LABEL" = "Platformer";
+"RACING_LABEL" = "Racing";
+"SPORT_LABEL" = "Sport";
+"ARCADE_LABEL" = "Arcade";
+"POINT_LABEL" = "Point-and-click";
