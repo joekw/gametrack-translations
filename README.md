@@ -1,6 +1,6 @@
 ### gametrack-translations
 
-This is the community language repository for [GameTrack](https://apps.apple.com/us/app/broadcasts/id1469995354?ls=1).
+This is the community language repository for [GameTrack](https://gametrack.app/).
 
 If there is a language you'd like to see GameTrack localized to, feel free to submit a pull request to the repository. If you're not comfortable with git, contact me on twitter @getgametrack and I'll sort it.
 
@@ -21,7 +21,7 @@ Strings are denoted as `"KEY"` = `"value"`, where the keys remain the same acros
 
 `"SEARCH_PLACEHOLDER" = "Search";`
 
-Where you see a `%@` or `%ld` token, this denotes a value that is replaced at runtime — in most cases will be the user-provided name for a station or collection, or a number. The corresponding localized value must keep the token in the right place to provide the same meaning as the English value.
+Where you see a `%@` or `%ld` token, this denotes a value that is replaced at runtime — in most cases will be the user-provided name for a list or collection, or a number. The corresponding localized value must keep the token in the right place to provide the same meaning as the English value.
 
 `"IMPORT_TITLE" = "Import \"%@\"?";`
 
