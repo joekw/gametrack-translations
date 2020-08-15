@@ -41,22 +41,22 @@
 "ONBOARDING_OPTION_6_MESSAGE" = "Maintenez appuyé sur un jeu dans une liste pour modifier rapidement votre progression, la note, partager le jeu ou le déplacer dans une autre liste.";
 
 "ONBOARDING_OPTION_7" = "Importez tous vos jeux dans vos listes";
-"ONBOARDING_OPTION_7" = "Liez vos comptes pour importer vos jeux avec les Trophées et les Succès débloqués.";
+"ONBOARDING_OPTION_7_MESSAGE" = "Liez vos comptes pour importer vos jeux avec les Trophées et les Succès débloqués.";
 
 "ONBOARDING_OPTION_8" = "Restez synchronisé";
 "ONBOARDING_OPTION_8_MESSAGE" = "Les Trophées et les Succès des jeux importés resteront à jour.";
 
 "LINK_STEAM_ACCOUNT_TITLE" = "Liez votre compte Steam";
-"LINK_STEAM_ACCOUNT_MESSAGE" = "Avant d'associer votre compte Steam, veuillez vous assurer que les paramètres de confidentialité "Détails du jeu" de votre profil Steam sont définis sur "Public".";
+"LINK_STEAM_ACCOUNT_MESSAGE" = "Avant d'associer votre compte Steam, veuillez vous assurer que les paramètres de confidentialité 'Détails du jeu' de votre profil Steam sont définis sur 'Public'.";
 
-"ONBOARDING_OPTION_9" = "Partagez votre activité"
-"ONBOARDING_OPTION_9_MESSAGE" = "Publiez automatiquement sur votre flux lorsque vous ajoutez, terminez, complétez, abandonnez ou souhaitez un jeu."
+"ONBOARDING_OPTION_9" = "Partagez votre activité";
+"ONBOARDING_OPTION_9_MESSAGE" = "Publiez automatiquement sur votre flux lorsque vous ajoutez, terminez, complétez, abandonnez ou souhaitez un jeu.";
 
-"ONBOARDING_OPTION_10" = "Suivez les activités de vos amis"
-"ONBOARDING_OPTION_10_MESSAGE" = "Suivez vos amis pour voir leurs activités de jeu et leurs notes."
+"ONBOARDING_OPTION_10" = "Suivez les activités de vos amis";
+"ONBOARDING_OPTION_10_MESSAGE" = "Suivez vos amis pour voir leurs activités de jeu et leurs notes.";
 
-"ONBOARDING_OPTION_11" = "Partagez vos coups de coeur"
-"ONBOARDING_OPTION_11_MESSAGE" = "Partagez vos listes avec vos amis."
+"ONBOARDING_OPTION_11" = "Partagez vos coups de coeur";
+"ONBOARDING_OPTION_11_MESSAGE" = "Partagez vos listes avec vos amis.";
 
 "SIGN_IN_WITH_PSN_TITLE" = "Se connecter au PSN";
 "SIGN_IN_WITH_STEAM" = "Se connecter à Steam";
@@ -69,9 +69,9 @@
 "LIBRARY_LABEL" = "Bibliothèque";
 "SEARCH_LABEL" = "Chercher";
 
-"BACKLOG_TITLE" = "Carnet de jeux";
+"BACKLOG_TITLE" = "Arriéré";
 "ARCHIVE_TITLE" = "Archive";
-"WISH_LIST_TITLE" = "Liste de souhaits";
+"WISH_LIST_TITLE" = "Liste de Souhaits";
 "RANKED_TITLE" = "Classement";
 "LISTS_TITLE" = "Listes";
 "DISCOVER_TITLE" = "Découvrir";
@@ -88,16 +88,23 @@
 "STATISTICS_TITLE" = "Statistiques";
 "ACCOUNTS_TITLE" = "Comptes";
 
-"NOW_PLAYING_STATUS" = "Jeux en cours";
-"PLAY_NEXT_STATUS" = "Jeux suivants";
+"NOW_PLAYING_STATUS" = "Jeux en Cours";
+"PLAY_NEXT_STATUS" = "Jeux Suivants";
 "COLLECTION_STATUS" = "Collection";
 "FINISHED_STATUS" = "Terminé";
 "COMPLETED_STATUS" = "Completé";
 "ABANDONED_STATUS" = "Abandonné";
 
-"OUT_NOW_HEADING" = "Disponibles";
-"NO_BACKLOG_DATE_HEADING" = "Aucune date dans le Carnet de jeux";
-"NO_ARCHIVE_DATE_HEADING" = "Aucune date d'Archivage";
+"NOW_PLAYING_TITLE" = "Jeux en Cours";
+"PLAY_NEXT_TITLE" = "Jeux Suivants";
+"COLLECTION_TITLE" = "Collection";
+"FINISHED_TITLE" = "Terminé";
+"COMPLETED_TITLE" = "Completé";
+"ABANDONED_TITLE" = "Abandonné";
+
+"OUT_NOW_TITLE" = "Disponibles";
+"NO_BACKLOG_DATE_TITLE" = "Aucune date dans le Carnet de jeux";
+"NO_ARCHIVE_DATE_TITLE" = "Aucune date d'Archivage";
 "EMPTY_LIST_LABEL" = "Votre liste est vide ! Appuyez sur le bouton + pour ajouter des jeux.";
 "EMPTY_FEED_LABEL" = "Aucun post trouvé. Essayez de suivre plus de personnes en utilisant le bouton de recherche.";
 "PLEASE_SIGN_IN_LABEL" = "Veuillez vous connecter pour voir votre flux d'activité.";
@@ -122,8 +129,8 @@
 "BACKLOG_DATE_INFO_HEADING" = "Date d'ajout dans le Carnet de jeux";
 "ARCHIVE_DATE_INFO_HEADING" = "Date d'Archivage";
 "GENRES_INFO_HEADING" = "Genres";
-"SCREENSHOTS_INFO_HEADING" = "Images"
-"VIDEOS_INFO_HEADING" = "Vidéos"
+"SCREENSHOTS_INFO_HEADING" = "Images";
+"VIDEOS_INFO_HEADING" = "Vidéos";
 "CRITIC_RATING_INFO_HEADING" = "Score critique";
 "ACHIEVEMENTS_HEADING" = "Succès";
 "TROPHIES_HEADING" = "Trophées";
@@ -192,7 +199,7 @@
 "TOP_PLATFORMS_HEADING" = "Top par Plate-forme";
 "TOP_PLATFORMS_SUBTITLE" = "Classez vos jeux par plate-forme";
 "GAME_PLATFORMS_TITLE" = "Plate-formes de jeu";
-"TOP_RATED_HEADING" = "Top par Note"
+"TOP_RATED_HEADING" = "Top par Note";
 "TOP_RATED_SUBTITLE" = "Affichez vos jeux selon votre évaluation";
 "GAME_RATINGS_TITLE" = "Notes de jeu";
 "ARCHIVED_GAMES_HEADING" = "Jeux archivés par mois";
@@ -257,7 +264,7 @@
 
 "POSTER_LABEL" = "Affiche";
 "COMPACT_POSTER_LABEL" = "Affiche compacte";
-"BANNER_LABEL" = "Bannière"
+"BANNER_LABEL" = "Bannière";
 
 "ABOUT_BUTTON_TITLE" = "À propos";
 "CREDITS_TITLE" = "Designed and developed by Joe Kimberlin-Wyer in London, UK.";
@@ -294,3 +301,29 @@
 "SPORT_LABEL" = "Sport";
 "ARCADE_LABEL" = "Arcade";
 "POINT_LABEL" = "Point-and-click";
+
+"RELEASED_LABEL" = "Released";
+"ADDED_LABEL" = "Added";
+"ARCHIVED_LABEL" = "Archived";
+"TITLE_LABEL" = "Title";
+"NONE_LABEL" = "None";
+"DIRECTION_ASCENDING_LABEL" = "Ascending";
+"DIRECTION_DESCENDING_LABEL" = "Descending";
+"RELEASE_DAYS_LABEL" = "Days";
+"SELECT_GAMES_TITLE" = "Select Games";
+"ARCHIVED_GAMES_TITLE" = "Archived Games";
+"SETTINGS_TITLE" = "Settings";
+"SIGN_OUT_MESSAGE" = "Are you sure you want to sign out?";
+"PLATFORM_LABEL" = "Platform";
+"PROFILE_TITLE" = "Profile";
+"VISUAL_LABEL" = "Visual Novel";
+"CARD_LABEL" = "Card/Board Game";
+"MOBA_LABEL" = "MOBA";
+"UPDATING_RELEASE_LABEL" = "Updating release date.";
+"PLEASE_WAIT_LABEL" = "Please wait...";
+"UP_TO_DATE_LABEL" = "Up to Date";
+"NO_UPDATE_LABEL" = "No updated release date available.";
+"SKIP_BUTTON_TITLE" = "Skip";
+"APPEARANCE_TITLE" = "Appearance";
+"SUBSCRIPTION_TITLE" = "Subscription";
+"DEFAULT_POSTER_HEADING" = "Default Poster";
