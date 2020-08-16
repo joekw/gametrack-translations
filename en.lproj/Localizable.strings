@@ -338,3 +338,11 @@
 "APPEARANCE_TITLE" = "Appearance";
 "SUBSCRIPTION_TITLE" = "Subscription";
 "DEFAULT_POSTER_HEADING" = "Default Poster";
+"STORY_TIME_LABEL" = "Story";
+"TIME_TO_BEAT_LABEL" = "Time to Beat";
+"EXTRAS_TIME_LABEL" = "Story + Extras";
+"COMPLETE_TIME_LABEL" = "Complete";
+"HOURS_PLAYED_LABEL" = "Hours Played";
+"COMPARE_TIME_LABEL" = "Compare";
+"NOTES_TITLE" = "Notes";
+"TRUE_DARK_THEME_LABEL" = "True Dark";
