@@ -346,3 +346,11 @@
 "COMPARE_TIME_LABEL" = "Compare";
 "NOTES_TITLE" = "Notes";
 "TRUE_DARK_THEME_LABEL" = "True Dark";
+"MISSING_GAME_ALERT_TITLE" = "Missing Games?";
+"MISSING_GAME_ALERT_MESSAGE" = "If you think some games are missing from this list, please tap 'Send' to email me with the missing titles.";
+"MISSING_GAME_ALERT_SEND" = "Send Missing Titles";
+"MISSING_GAMES_HEADING" = "Missing Games?";
+"UPDATE_HOURS_PLAYED_LABEL" = "Update Hours Played";
+"STANDARD_THEME_LABEL" = "Standard";
+"COLOURFUL_THEME_LABEL" = "Colourful";
+"WIDGET_THEME_LABEL" = "Widget Theme";
