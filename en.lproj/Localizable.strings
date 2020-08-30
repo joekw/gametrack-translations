@@ -41,7 +41,7 @@
 "ONBOARDING_OPTION_6_MESSAGE" = "Hold down on a game in your list to quickly change progress, rating, move to another list and share.";
 
 "ONBOARDING_OPTION_7" = "Import your games to your lists";
-"ONBOARDING_OPTION_7" = "Link your accounts to import your games along with trophies and achievements.";
+"ONBOARDING_OPTION_7_MESSAGE" = "Link your accounts to import your games along with trophies and achievements.";
 
 "ONBOARDING_OPTION_8" = "Keeping updated";
 "ONBOARDING_OPTION_8_MESSAGE" = "Games you have imported will keep their trophy and achievement information in sync with your activities.";
@@ -49,14 +49,14 @@
 "LINK_STEAM_ACCOUNT_TITLE" = "Link Steam Account";
 "LINK_STEAM_ACCOUNT_MESSAGE" = "Before linking your Steam account, please make sure the 'Game Details' privacy settings on your steam profile are set to 'Public'.";
 
-"ONBOARDING_OPTION_9" = "Post updates"
-"ONBOARDING_OPTION_9_MESSAGE" = "Automatically post to your feed when you add, finish, complete, abandon or want a game."
+"ONBOARDING_OPTION_9" = "Post updates";
+"ONBOARDING_OPTION_9_MESSAGE" = "Automatically post to your feed when you add, finish, complete, abandon or want a game.";
 
-"ONBOARDING_OPTION_10" = "Keep up with your friends gaming activities"
-"ONBOARDING_OPTION_10_MESSAGE" = "Follow your friends to see their gaming updates and ratings."
+"ONBOARDING_OPTION_10" = "Keep up with your friends gaming activities";
+"ONBOARDING_OPTION_10_MESSAGE" = "Follow your friends to see their gaming updates and ratings.";
 
-"ONBOARDING_OPTION_11" = "Sharing is caring"
-"ONBOARDING_OPTION_11_MESSAGE" = "Share your lists with your friends."
+"ONBOARDING_OPTION_11" = "Sharing is caring";
+"ONBOARDING_OPTION_11_MESSAGE" = "Share your lists with your friends.";
 
 "SIGN_IN_WITH_PSN_TITLE" = "Sign In with PSN";
 "SIGN_IN_WITH_STEAM" = "Sign In with Steam";
@@ -95,9 +95,16 @@
 "COMPLETED_STATUS" = "Completed";
 "ABANDONED_STATUS" = "Abandoned";
 
-"OUT_NOW_HEADING" = "Out Now";
-"NO_BACKLOG_DATE_HEADING" = "No Backlog Date";
-"NO_ARCHIVE_DATE_HEADING" = "No Archive Date";
+"NOW_PLAYING_TITLE" = "Now Playing";
+"PLAY_NEXT_TITLE" = "Play Next";
+"COLLECTION_TITLE" = "Collection";
+"FINISHED_TITLE" = "Finished";
+"COMPLETED_TITLE" = "Completed";
+"ABANDONED_TITLE" = "Abandoned";
+
+"OUT_NOW_TITLE" = "Out Now";
+"NO_BACKLOG_DATE_TITLE" = "No Backlog Date";
+"NO_ARCHIVE_DATE_TITLE" = "No Archive Date";
 "EMPTY_LIST_LABEL" = "Your list is empty! Tap the + button on the tab bar to discover some games.";
 "EMPTY_FEED_LABEL" = "No posts found. Try following more people using the search button.";
 "PLEASE_SIGN_IN_LABEL" = "Please sign in to see your activity feed.";
@@ -122,8 +129,8 @@
 "BACKLOG_DATE_INFO_HEADING" = "Backlog Date";
 "ARCHIVE_DATE_INFO_HEADING" = "Archive Date";
 "GENRES_INFO_HEADING" = "Genres";
-"SCREENSHOTS_INFO_HEADING" = "Screenshots"
-"VIDEOS_INFO_HEADING" = "Videos"
+"SCREENSHOTS_INFO_HEADING" = "Screenshots";
+"VIDEOS_INFO_HEADING" = "Videos";
 "CRITIC_RATING_INFO_HEADING" = "Critic Rating";
 "ACHIEVEMENTS_HEADING" = "Achievements";
 "TROPHIES_HEADING" = "Trophies";
@@ -164,7 +171,7 @@
 
 "ADD_GAME_TITLE" = "Add Game to List";
 "MOVE_GAME_TITLE" = "Move Game to List";
-"IMPORT_GAME_TITLE" = "Import Game to List";
+"IMPORT_GAME_TITLE" = "Import Games to List";
 "SELECT_GAMES_TITLE" = "Select Games";
 "IMPORT_COMPLETE_ALERT" = "Import complete.";
 "SUCCESS_ALERT" = "Success";
@@ -192,7 +199,7 @@
 "TOP_PLATFORMS_HEADING" = "Top Platforms";
 "TOP_PLATFORMS_SUBTITLE" = "Show your games by platform";
 "GAME_PLATFORMS_TITLE" = "Game Platforms";
-"TOP_RATED_HEADING" = "Top Rated"
+"TOP_RATED_HEADING" = "Top Rated";
 "TOP_RATED_SUBTITLE" = "See how your games are rated";
 "GAME_RATINGS_TITLE" = "Game Ratings";
 "ARCHIVED_GAMES_HEADING" = "Archived Games by Month";
@@ -248,6 +255,7 @@
 "RATE_APP_LABEL" = "Rate App";
 "SUPPORT_LABEL" = "Support";
 "FEATURE_LABEL" = "Feature Roadmap";
+"TWITTER_LABEL" = "Twitter";
 
 "PLUS_TITLE" = "Plus";
 "COLOURS_TITLE" = "Colours";
@@ -257,7 +265,7 @@
 
 "POSTER_LABEL" = "Poster";
 "COMPACT_POSTER_LABEL" = "Compact Poster";
-"BANNER_LABEL" = "Banner"
+"BANNER_LABEL" = "Banner";
 
 "ABOUT_BUTTON_TITLE" = "About";
 "CREDITS_TITLE" = "Designed and developed by Joe Kimberlin-Wyer in London, UK.";
@@ -294,3 +302,55 @@
 "SPORT_LABEL" = "Sport";
 "ARCADE_LABEL" = "Arcade";
 "POINT_LABEL" = "Point-and-click";
+
+"GROUP_BY_HEADING" = "Group by";
+"SORT_BY_HEADING" = "Sort by";
+"SORT_DIRECTION_HEADING" = "Sort Direction";
+"EDIT_LIST_HEADING" = "Edit List";
+"LIST_NAME_ERROR" = "Please enter a valid list name.";
+"LIST_TYPE_ERROR" = "Please select a list type.";
+"NO_GAMES_ERROR" = "No games found.";
+"SIGN_IN_ERROR_TITLE" = "Sign In Error";
+"SIGN_IN_ERROR_MESSAGE" = "You must be signed in to a GameTrack account before searching for users.";
+
+"RELEASED_LABEL" = "Released";
+"ADDED_LABEL" = "Added";
+"ARCHIVED_LABEL" = "Archived";
+"TITLE_LABEL" = "Title";
+"NONE_LABEL" = "None";
+"DIRECTION_ASCENDING_LABEL" = "Ascending";
+"DIRECTION_DESCENDING_LABEL" = "Descending";
+"RELEASE_DAYS_LABEL" = "Days";
+"SELECT_GAMES_TITLE" = "Select Games";
+"ARCHIVED_GAMES_TITLE" = "Archived Games";
+"SETTINGS_TITLE" = "Settings";
+"SIGN_OUT_MESSAGE" = "Are you sure you want to sign out?";
+"PLATFORM_LABEL" = "Platform";
+"PROFILE_TITLE" = "Profile";
+"VISUAL_LABEL" = "Visual Novel";
+"CARD_LABEL" = "Card/Board Game";
+"MOBA_LABEL" = "MOBA";
+"UPDATING_RELEASE_LABEL" = "Updating release date.";
+"PLEASE_WAIT_LABEL" = "Please wait...";
+"UP_TO_DATE_LABEL" = "Up to Date";
+"NO_UPDATE_LABEL" = "No updated release date available.";
+"SKIP_BUTTON_TITLE" = "Skip";
+"APPEARANCE_TITLE" = "Appearance";
+"SUBSCRIPTION_TITLE" = "Subscription";
+"DEFAULT_POSTER_HEADING" = "Default Poster";
+"STORY_TIME_LABEL" = "Story";
+"TIME_TO_BEAT_LABEL" = "Time to Beat";
+"EXTRAS_TIME_LABEL" = "Story + Extras";
+"COMPLETE_TIME_LABEL" = "Complete";
+"HOURS_PLAYED_LABEL" = "Hours Played";
+"COMPARE_TIME_LABEL" = "Compare";
+"NOTES_TITLE" = "Notes";
+"TRUE_DARK_THEME_LABEL" = "True Dark";
+"MISSING_GAME_ALERT_TITLE" = "Missing Games?";
+"MISSING_GAME_ALERT_MESSAGE" = "If you think some games are missing from this list, please tap 'Send' to email me with the missing titles.";
+"MISSING_GAME_ALERT_SEND" = "Send Missing Titles";
+"MISSING_GAMES_HEADING" = "Missing Games?";
+"UPDATE_HOURS_PLAYED_LABEL" = "Update Hours Played";
+"STANDARD_THEME_LABEL" = "Standard";
+"COLOURFUL_THEME_LABEL" = "Colourful";
+"WIDGET_THEME_LABEL" = "Widget Theme";

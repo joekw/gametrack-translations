@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   GameTrack
 
@@ -6,7 +6,7 @@
   Copyright © 2020 GameTrack. All rights reserved.
 */
 
-"ONBOARDING_WELCOME_TO" = "Bienvenue à";
+"ONBOARDING_WELCOME_TO" = "Bienvenue sur";
 "CONTINUE_BUTTON_TITLE" = "Continuer";
 "NEXT_BUTTON_TITLE" = "Suivant";
 "CONTINUE_WITHOUT_ACCOUNT_TITLE" = "Continuer sans compte";
@@ -18,7 +18,7 @@
 "PERMISSION_ERROR_TITLE" = "Erreur de permission";
 "PERMISSION_ERROR_MESSAGE" = "L'accès à la bibliothèque de photos a été refusé. Veuillez accéder aux Réglages et activer l'accès à la bibliothèque de photos pour sélectionner une image.";
 
-"WELCOME_TAG_LINE" = "Rendre la gestion de votre collection de jeux vidéo simple et agréable.";
+"WELCOME_TAG_LINE" = "Rendez la gestion de votre collection de jeux vidéo simple et agréable.";
 
 "ONBOARDING_OPTION_1" = "Ajoutez le jeu de votre choix";
 "ONBOARDING_OPTION_1_MESSAGE" = "En utilisant la base de données de IGDB, recherchez n'importe quel jeu sur n'importe quelle plate-forme à ajouter à votre Carnet de jeux, à vos Archives et à votre Liste de souhaits.";
@@ -67,7 +67,7 @@
 "IMPORT_FAILED_LABEL" = "L'importation a échoué";
 
 "LIBRARY_LABEL" = "Bibliothèque";
-"SEARCH_LABEL" = "Chercher";
+"SEARCH_LABEL" = "Rechercher";
 
 "BACKLOG_TITLE" = "Arriéré";
 "ARCHIVE_TITLE" = "Archive";
@@ -157,9 +157,9 @@
 "LIST_TYPE_HEADING" = "Type de liste";
 "ADD_LIST_BUTTON_TITLE" = "Ajouter";
 
-"SCREENSHOT_ERROR_TITLE" = "Erreur d'Images";
+"SCREENSHOT_ERROR_TITLE" = "Erreur d'image";
 "SCREENSHOT_ERROR_MESSAGE" = "Aucune image trouvée pour le jeu sélectionné.";
-"ARTWORK_ERROR_TITLE" = "Erreur d'Illustration";
+"ARTWORK_ERROR_TITLE" = "Erreur d'illustration";
 "ARTWORK_ERROR_MESSAGE" = "Aucune illustration trouvée pour le jeu sélectionné.";
 "DEFAULT_POSTER_ERROR_MESSAGE" = "Aucune affiche par défaut trouvée pour le jeu sélectionné.";
 "DEFAULT_POSTER_ERROR_TITLE" = "Erreur d'affiche";
@@ -191,7 +191,7 @@
 "REFRESH_RELEASE_DATE_LABEL" = "Actualiser la date de parution";
 "ADD_NOTES_LABEL" = "Ajouter une note";
 "PHOTO_LIBRARY_LABEL" = "Bibliothèque de photos";
-"ARTWORK_LABEL" = "Illustration";
+"ARTWORK_LABEL" = "Illustrations";
 
 "TOP_GENRES_HEADING" = "Top par Genre";
 "TOP_GENRES_SUBTITLE" = "Organisez vos jeux par genre";
@@ -279,14 +279,14 @@
 "NOTIFICATIONS_DISABLED_ERROR" = "Veuillez activer les notifications dans les Réglages iOS.";
 
 "DARK_THEME_LABEL" = "Sombre";
-"LIGHT_THEME_LABEL" = "Claire";
+"LIGHT_THEME_LABEL" = "Clair";
 "AUTOMATIC_THEME_LABEL" = "Automatique";
 
 "SIMULATOR_LABEL" = "Simulateur";
 "TACTICAL_LABEL" = "Tactical";
 "QUIZ_LABEL" = "Quiz";
 "FIGHTING_LABEL" = "Combat";
-"STRATEGY_LABEL" = "Strategie";
+"STRATEGY_LABEL" = "Stratégie";
 "ADVENTURE_LABEL" = "Aventure";
 "RPG_LABEL" = "RPG";
 "SHOOTER_LABEL" = "Shooter";
@@ -302,28 +302,45 @@
 "ARCADE_LABEL" = "Arcade";
 "POINT_LABEL" = "Point-and-click";
 
-"RELEASED_LABEL" = "Released";
-"ADDED_LABEL" = "Added";
-"ARCHIVED_LABEL" = "Archived";
-"TITLE_LABEL" = "Title";
-"NONE_LABEL" = "None";
-"DIRECTION_ASCENDING_LABEL" = "Ascending";
-"DIRECTION_DESCENDING_LABEL" = "Descending";
-"RELEASE_DAYS_LABEL" = "Days";
-"SELECT_GAMES_TITLE" = "Select Games";
-"ARCHIVED_GAMES_TITLE" = "Archived Games";
-"SETTINGS_TITLE" = "Settings";
-"SIGN_OUT_MESSAGE" = "Are you sure you want to sign out?";
-"PLATFORM_LABEL" = "Platform";
-"PROFILE_TITLE" = "Profile";
+"RELEASED_LABEL" = "Sorti";
+"ADDED_LABEL" = "Ajouté";
+"ARCHIVED_LABEL" = "Archivé";
+"TITLE_LABEL" = "Titre";
+"NONE_LABEL" = "Acun";
+"DIRECTION_ASCENDING_LABEL" = "Du plus ancien";
+"DIRECTION_DESCENDING_LABEL" = "Du plus récent";
+"RELEASE_DAYS_LABEL" = "Jours";
+"SELECT_GAMES_TITLE" = "Sélectionnez des jeux";
+"ARCHIVED_GAMES_TITLE" = "Jeux Archivés";
+"SETTINGS_TITLE" = "Paramètres";
+"SIGN_OUT_MESSAGE" = "Êtes-vous sûr de vouloir vous déconnecter ?";
+"PLATFORM_LABEL" = "Plate-forme";
+"PROFILE_TITLE" = "Profil";
 "VISUAL_LABEL" = "Visual Novel";
-"CARD_LABEL" = "Card/Board Game";
+"CARD_LABEL" = "Cartes/Jeu de plateau";
 "MOBA_LABEL" = "MOBA";
-"UPDATING_RELEASE_LABEL" = "Updating release date.";
-"PLEASE_WAIT_LABEL" = "Please wait...";
-"UP_TO_DATE_LABEL" = "Up to Date";
-"NO_UPDATE_LABEL" = "No updated release date available.";
-"SKIP_BUTTON_TITLE" = "Skip";
-"APPEARANCE_TITLE" = "Appearance";
-"SUBSCRIPTION_TITLE" = "Subscription";
-"DEFAULT_POSTER_HEADING" = "Default Poster";
+"UPDATING_RELEASE_LABEL" = "Mise à jour de la date de sortie.";
+"PLEASE_WAIT_LABEL" = "Veuillez patienter...";
+"UP_TO_DATE_LABEL" = "À jour";
+"NO_UPDATE_LABEL" = "Aucune date de sortie de mise à jour disponible";
+"SKIP_BUTTON_TITLE" = "Passer";
+"APPEARANCE_TITLE" = "Apparence";
+"SUBSCRIPTION_TITLE" = "Abonnement";
+"DEFAULT_POSTER_HEADING" = "Affiche par défaut";
+"STORY_TIME_LABEL" = "Story";
+"TIME_TO_BEAT_LABEL" = "Time to Beat";
+"EXTRAS_TIME_LABEL" = "Story + Extras";
+"COMPLETE_TIME_LABEL" = "Complete";
+"HOURS_PLAYED_LABEL" = "Hours Played";
+"COMPARE_TIME_LABEL" = "Compare";
+"NOTES_TITLE" = "Notes";
+"TRUE_DARK_THEME_LABEL" = "True Dark";
+"MISSING_GAME_ALERT_TITLE" = "Missing Games?";
+"MISSING_GAME_ALERT_MESSAGE" = "If you think some games are missing from this list, please tap 'Send' to email me with the missing titles.";
+"MISSING_GAME_ALERT_SEND" = "Send Missing Titles";
+"MISSING_GAMES_HEADING" = "Missing Games?";
+"UPDATE_HOURS_PLAYED_LABEL" = "Update Hours Played";
+"STANDARD_THEME_LABEL" = "Standard";
+"COLOURFUL_THEME_LABEL" = "Colourful";
+"WIDGET_THEME_LABEL" = "Widget Theme";
+
