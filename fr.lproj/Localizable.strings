@@ -327,20 +327,40 @@
 "APPEARANCE_TITLE" = "Apparence";
 "SUBSCRIPTION_TITLE" = "Abonnement";
 "DEFAULT_POSTER_HEADING" = "Affiche par défaut";
-"STORY_TIME_LABEL" = "Story";
-"TIME_TO_BEAT_LABEL" = "Time to Beat";
-"EXTRAS_TIME_LABEL" = "Story + Extras";
-"COMPLETE_TIME_LABEL" = "Complete";
-"HOURS_PLAYED_LABEL" = "Hours Played";
-"COMPARE_TIME_LABEL" = "Compare";
+"STORY_TIME_LABEL" = "Histoire";
+"TIME_TO_BEAT_LABEL" = "Durée de vie";
+"EXTRAS_TIME_LABEL" = "Extras";
+"COMPLETE_TIME_LABEL" = "Complété";
+"HOURS_PLAYED_LABEL" = "Heures jouées";
+"COMPARE_TIME_LABEL" = "Comparer";
 "NOTES_TITLE" = "Notes";
 "TRUE_DARK_THEME_LABEL" = "True Dark";
-"MISSING_GAME_ALERT_TITLE" = "Missing Games?";
-"MISSING_GAME_ALERT_MESSAGE" = "If you think some games are missing from this list, please tap 'Send' to email me with the missing titles.";
-"MISSING_GAME_ALERT_SEND" = "Send Missing Titles";
-"MISSING_GAMES_HEADING" = "Missing Games?";
-"UPDATE_HOURS_PLAYED_LABEL" = "Update Hours Played";
+"MISSING_GAME_ALERT_TITLE" = "Jeux absents ?";
+"MISSING_GAME_ALERT_MESSAGE" = "Si vous pensez que certains jeux ne figurent pas dans cette liste, appuyez sur «Envoyer» pour m'envoyer un e-mail avec les titres absents.";
+"MISSING_GAME_ALERT_SEND" = "Envoyer les jeux absents";
+"MISSING_GAMES_HEADING" = "Jeux absents ?";
+"UPDATE_HOURS_PLAYED_LABEL" = "Modifier les heures jouées";
 "STANDARD_THEME_LABEL" = "Standard";
-"COLOURFUL_THEME_LABEL" = "Colourful";
-"WIDGET_THEME_LABEL" = "Widget Theme";
+"COLOURFUL_THEME_LABEL" = "Coloré";
+"WIDGET_THEME_LABEL" = "Thème Widget";
+"TYPE_LABEL" = "Type";
+"EARNED_LABEL" = "Earned";
+"RARITY_LABEL" = "Rarity";
+"SELECT_ADDITIONAL_PLATFORMS_LABEL" = "Change Additional Platforms";
+"PUBLISHER_INFO_HEADING" = "Publisher";
+"DEVELOPER_INFO_HEADING" = "Developer";
 
+"EMPTY_LIST_LABEL_MAC" = "Your list is empty! Click any of the options under Discover in the side bar to find some games.";
+"EMPTY_FEED_LABEL_MAC" = "No posts found. Try searching for some people to follow using the search bar.";
+"COMPACT_BANNER_LABEL" = "Bannière compacte";
+
+"YEAR_IN_REVIEW_HEADING" = "Year In Review";
+"YEAR_IN_REVIEW_SUBTITLE" = "Look back over your year in gaming";
+
+"SHOW_CALENDAR_LABEL" = "Show Calendar";
+"OPEN_CRITIC_TITLE" = "OpenCritic";
+
+"SORT_GROUP_LABEL" = "Change Sorting/Grouping";
+"DELETE_LIST_ALERT_TITLE" = "Delete List";
+"DELETE_LIST_ALERT_MESSAGE" = "Are you sure you want to delete this list and all included games?";
+"SHARE_LIST_LABEL" = "Share List";
